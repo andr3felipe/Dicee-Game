@@ -7,7 +7,9 @@ A Dicee Game
 
 
 # GIF
-<img href="./images/dicee.gif">
+<img src="./images/Dicee.gif">
+
+
 
 
 # HOW TO PLAY
@@ -15,5 +17,7 @@ Click where it's indicated to roll the dice!
 
 
 
+
+
 # GO TO THE WEBSITE
-<img src="./images/page.png">
+<a href="https://bespoke-crepe-b777be.netlify.app/">Click here to play!</a>
